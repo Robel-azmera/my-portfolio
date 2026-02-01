@@ -8,7 +8,7 @@ import mposImg from './assets/images/mpos.jpg';
 const logotext = "Robel";
 const meta = {
     title: "Robel Azmera",
-    description: "I’m Robel Azmera Senior Software Engineer specializing in User Experience, Web and Mobile Applications",
+    description: "I’m Robel Azmera Senior Software Engineer specializing in Web ,POS and Mobile Applications",
 };
 
 const introdata = {
@@ -24,23 +24,23 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "about my self",
+    title: "About my self",
     aboutme: "POS Expert | Full-Stack Engineer (Flutter, ReactJS, Node.js, PostgreSQL) | Tailwind CSS | Building Scalable, High-Performance Retail & Fintech Solutions.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Junior Software Developer",
+        where: "Santimpay Financial Solutions S.C",
+        date: "2022-2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Senior Software Developer | POS expert",
+        where: "Santimpay Financial Solutions S.C",
+        date: "2024-present",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Acquiring Manager",
+        where: "SanuPay International L.L.C-FZ",
+        date: "2026-Present",
     },
 ];
 
